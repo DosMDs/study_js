@@ -163,6 +163,50 @@ numbers.forEach(function(number) {
 
 ---
 
+### 6. **Остальные методы массива**
+
+#### 6.1. **Метод `map()`**
+
+- **`map()`** — Создать новый массив на основе текущего
+
+```javascript
+let numbers = [1, 2, 3, 4];
+let doubledNumbers = numbers.map(function(number) {
+    return number * 2;
+});
+console.log(doubledNumbers);  // [2, 4, 6, 8]
+```
+
+---
+
+#### 6.2. **Метод `filter()`**
+
+- **`filter()`** — Отфильтровать массив
+
+```javascript
+let numbers = [1, 2, 3, 4, 5];
+let evenNumbers = numbers.filter(function(number) {
+    return number % 2 === 0;  // Оставить только четные числа
+});
+console.log(evenNumbers);  // [2, 4]
+```
+
+---
+
+#### 6.3. **Метод `reduce()`**
+
+- **`reduce()`** — Свернуть массив в одно значение
+
+```javascript
+let numbers = [1, 2, 3, 4];
+let sum = numbers.reduce(function(total, number) {
+    return total + number;
+}, 0);
+console.log(sum);  // 10
+```
+
+---
+
 ### Вопросы для закрепления:
 
 1. **Что такое массив? Как его создать?**
