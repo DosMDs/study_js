@@ -2,6 +2,7 @@
 1. [Переменные](topics/varible.md)
 2. [Типы данных](topics/type.md)
     - [Строки](topics/types/string.md)
+    - [Числа](topics/types/number.md)
 3. [Приведение типов](topics/type_conversion.md)
 4. [Циклы](topics/loop.md)
 5. [Массивы](topics/array.md)
