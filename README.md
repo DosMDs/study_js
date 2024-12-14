@@ -13,3 +13,4 @@
     - [Замыкания](topics/closure.md)
 8. [Задачи для закрепления](topics/tasks.md)
 9. [Алгоритм решения задач](topics/algorithm.md)
+10. [Отладка](topics/debug.md)
