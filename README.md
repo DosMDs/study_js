@@ -4,5 +4,6 @@
 3. [Приведение типов](type_conversion.md)
 4. [Циклы](loop.md)
 5. [Массивы](array.md)
-6. [Функции](function.md)
-7. [Задачи для закрепления](tasks.md)
+    - [Оператор spread](spread.md)
+7. [Функции](function.md)
+8. [Задачи для закрепления](tasks.md)
