@@ -10,5 +10,6 @@
 6. [Массивы](topics/array.md)
     - [Оператор spread](topics/spread.md)
 7. [Функции](topics/function.md)
+    - [Замыкания](topics/closure.md)
 8. [Задачи для закрепления](topics/tasks.md)
 9. [Алгоритм решения задач](topics/algorithm.md)
